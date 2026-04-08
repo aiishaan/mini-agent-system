@@ -43,6 +43,7 @@ or query, runs the agent pipeline, displays the structured response, and can sho
 the generated or updated Markdown notes.
 
 ## Deploy For A Live URL
+https://mini-agent-system-ufb2czoruss8japp252uvv.streamlit.app/
 
 The fastest deployment path is Streamlit Community Cloud:
 
